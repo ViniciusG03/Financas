@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Finanças Pessoais</string>
+    <string name="resumo_financeiro">Resumo Financeiro</string>
+    <string name="saldo">Saldo</string>
+    <string name="receitas">Receitas</string>
+    <string name="despesas">Despesas</string>
+    <string name="transacoes_recentes">Transações Recentes</string>
+    <string name="ver_relatorios">Ver Relatórios</string>
+    <string name="nova_transacao">Nova Transação</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="tipo_transacao">Tipo de Transação</string>
+    <string name="receita">Receita</string>
+    <string name="despesa">Despesa</string>
+    <string name="categoria">Categoria</string>
+    <string name="data">Data</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="relatorios_financeiros">Relatórios Financeiros</string>
+    <string name="resumo_geral">Resumo Geral</string>
+    <string name="total_receitas">Total Receitas</string>
+    <string name="total_despesas">Total Despesas</string>
+    <string name="saldo_total">Saldo Total</string>
+    <string name="receitas_por_categoria">Receitas por Categoria</string>
+    <string name="despesas_por_categoria">Despesas por Categoria</string>
+    <string name="excluir_transacao">Excluir Transação</string>
+    <string name="confirmar_exclusao">Tem certeza que deseja excluir esta transação?</string>
+    <string name="excluir">Excluir</string>
+    <string name="transacao_salva">Transação salva com sucesso!</string>
+    <string name="erro_salvar">Erro ao salvar transação</string>
+    <string name="descricao_obrigatoria">Descrição é obrigatória</string>
+    <string name="valor_obrigatorio">Valor é obrigatório</string>
+    <string name="valor_maior_zero">Valor deve ser maior que zero</string>
+    <string name="valor_invalido">Valor inválido</string>
+    <string name="selecione_tipo">Selecione o tipo da transação</string>
+</resources>
